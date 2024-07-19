@@ -49,7 +49,7 @@
             <label for="">Mensagem:</label>
             <input class="form-control" type="text" name="bt_msg">
             <hr>
-
+            <img src="" alt="">
             <input type="reset" class="btn btn-outline-danger" value="Cancelar">
             <input type="submit" class="btn btn-outline-success" value="Enviar">
         </form>
